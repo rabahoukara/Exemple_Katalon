@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>cas de test avec script</description>
+   <name>cas de test avec script</name>
+   <tag>tag_script2</tag>
+   <comment></comment>
+   <testCaseGuid>e247a781-cb9b-40a2-948e-16a1ac057244</testCaseGuid>
+</TestCaseEntity>
